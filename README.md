@@ -7,17 +7,6 @@ Join our discord <a href='https://discord.gg/q4pCAqt34J'>HERE</a> for additional
 | ox_lib    | ✅         |
 | oxmysql   | ✅         |
 
-# 🔥 Why Choose AVOXV Admin Menu?
-
-✅ Modern UI
-✅ Fully configurable
-✅ Serious RP focused
-✅ Large server optimized
-✅ Advanced moderation tools
-✅ Clean and organized code
-✅ Easy installation
-✅ Frequent updates
-
 # ⚡ Optimized Performance
 
 ✅ Lightweight
