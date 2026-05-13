@@ -3,37 +3,37 @@ Join our discord <a href='https://discord.gg/q4pCAqt34J'>HERE</a> for additional
 
 # | Framework  | Supported |
 | ---------- | --------- |
-| **ESX Legacy** | ✅         |
-| **ox_lib**    | ✅         |
-| **oxmysql**   | ✅         |
+| ESX Legacy | ✅         |
+| ox_lib    | ✅         |
+| oxmysql   | ✅         |
 
 # 🔥 Why Choose AVOXV Admin Menu?
 
-**✅ Modern UI
+✅ Modern UI
 ✅ Fully configurable
 ✅ Serious RP focused
 ✅ Large server optimized
 ✅ Advanced moderation tools
 ✅ Clean and organized code
 ✅ Easy installation
-✅ Frequent updates**
+✅ Frequent updates
 
 # ⚡ Optimized Performance
 
-✅ **Lightweight**
-✅ **Optimized loops**
-✅ **Minimal resource usage**
-✅ **Large server ready**
-✅ **Clean code structure**
+✅ Lightweight
+✅ Optimized loops
+✅ Minimal resource usage
+✅ Large server ready
+✅ Clean code structure
 
 # 📦 Installation
-1️⃣ **Download Script**
+1️⃣ Download Script
 *resources/[standalone]/avoxv_adminmenu*
 
 # ⚙️ Configuration
-👑 **Admin Groups**
+👑 Admin Groups
 
-**Edit** **config.lua**
+Edit config.lua
 ``Config.AdminGroups = {
     ['management'] = true,
     ['cmanagement'] = true,
