@@ -28,7 +28,7 @@ Join our discord <a href='https://discord.gg/q4pCAqt34J'>HERE</a> for additional
 
 # 📦 Installation
 1️⃣ Download Script
-*resources/[standalone]/avoxv_adminmenu*
+https://discord.gg/q4pCAqt34J
 
 # ⚙️ Configuration
 👑 Admin Groups
